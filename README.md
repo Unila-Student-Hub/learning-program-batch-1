@@ -1,12 +1,12 @@
 # List of Participant Learning Program Batch 1
 
-## Android Development with Kotlin
+#### Android Development with Kotlin
 - Name
 
-## Frontend Development with ReactJs
+#### Frontend Development with ReactJs
 - Name
 
-## Backend Development with NodeJs
+#### Backend Development with NodeJs
 - Name
 
-#### 😷
+## 😷
